@@ -1,0 +1,15 @@
+body{
+    text-align: justify;
+    text-align: left;
+    padding: 30px;
+    
+}
+.notas{
+    border: solid;
+    width: 50cm;
+    height: 5cm;
+}
+footer{
+    text-align: center;
+    margin: 20px;
+}
